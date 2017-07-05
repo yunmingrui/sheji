@@ -1,0 +1,33 @@
+
+
+
+/* 加号  */
+
+#add {
+	justify-content: flex-end;
+	height: 22px;
+	width: 22px;
+}
+
+
+#function {
+	background: #424242;
+	width: 140px;
+	height: 190px;
+	display: flex;
+	justify-content: flex-end;
+	border: 1px solid red;
+	
+	position: absolute;
+	
+	top: 50px;right: 10px;
+}
+
+#sj {
+	width: 16px;
+	height: 16px;
+	position: absolute;
+	right: 3px;top:-15px;
+	transform: rotate(45deg);
+	background: #424242;
+}
